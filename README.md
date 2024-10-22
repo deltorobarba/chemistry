@@ -29,3 +29,4 @@
 
 * [Water Molecule (H₂O)](https://github.com/deltorobarba/chemistry/blob/main/water_H2O.ipynb)
 * [Ground-state energy estimation](https://github.com/deltorobarba/chemistry/blob/main/quantum_groundstate.ipynb) with Quantum Computing
+* [General Chemistry](https://github.com/deltorobarba/sciences/blob/master/chemistry.ipynb)
